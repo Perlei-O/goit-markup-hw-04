@@ -426,6 +426,7 @@ img {
   margin: 0;
   padding: 0;
   list-style: none;
+  
 }
 
 .footer-web {
@@ -468,6 +469,10 @@ img {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--primary-title-color);
+}
+
+.footer-adress {
+  margin-top: 20px;
 }
 
 .footer-contacts {
