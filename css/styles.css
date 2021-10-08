@@ -338,8 +338,8 @@ img {
 .social{
   align-items: center;
   justify-content: space-between;
-  display: flex;r
-  padding-top: 16px;
+  display: flex;
+  margin-top: 16px;
   padding: 0 32px;
   list-style: none; 
 }
